@@ -1,0 +1,20 @@
+C:\Users\Shivam Sood\source\repos\weather application\weather application\bin\Debug\net8.0-windows\weather application.exe
+C:\Users\Shivam Sood\source\repos\weather application\weather application\bin\Debug\net8.0-windows\weather application.deps.json
+C:\Users\Shivam Sood\source\repos\weather application\weather application\bin\Debug\net8.0-windows\weather application.runtimeconfig.json
+C:\Users\Shivam Sood\source\repos\weather application\weather application\bin\Debug\net8.0-windows\weather application.dll
+C:\Users\Shivam Sood\source\repos\weather application\weather application\bin\Debug\net8.0-windows\weather application.pdb
+C:\Users\Shivam Sood\source\repos\weather application\weather application\obj\Debug\net8.0-windows\weather_application.Form1.resources
+C:\Users\Shivam Sood\source\repos\weather application\weather application\obj\Debug\net8.0-windows\weather application.csproj.GenerateResource.cache
+C:\Users\Shivam Sood\source\repos\weather application\weather application\obj\Debug\net8.0-windows\weather application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Shivam Sood\source\repos\weather application\weather application\obj\Debug\net8.0-windows\weather application.AssemblyInfoInputs.cache
+C:\Users\Shivam Sood\source\repos\weather application\weather application\obj\Debug\net8.0-windows\weather application.AssemblyInfo.cs
+C:\Users\Shivam Sood\source\repos\weather application\weather application\obj\Debug\net8.0-windows\weather application.csproj.CoreCompileInputs.cache
+C:\Users\Shivam Sood\source\repos\weather application\weather application\obj\Debug\net8.0-windows\weather application.dll
+C:\Users\Shivam Sood\source\repos\weather application\weather application\obj\Debug\net8.0-windows\refint\weather application.dll
+C:\Users\Shivam Sood\source\repos\weather application\weather application\obj\Debug\net8.0-windows\weather application.pdb
+C:\Users\Shivam Sood\source\repos\weather application\weather application\obj\Debug\net8.0-windows\weather application.genruntimeconfig.cache
+C:\Users\Shivam Sood\source\repos\weather application\weather application\obj\Debug\net8.0-windows\ref\weather application.dll
+C:\Users\Shivam Sood\source\repos\weather application\weather application\bin\Debug\net8.0-windows\Newtonsoft.Json.dll
+C:\Users\Shivam Sood\source\repos\weather application\weather application\obj\Debug\net8.0-windows\weather application.csproj.AssemblyReference.cache
+C:\Users\Shivam Sood\source\repos\weather application\weather application\obj\Debug\net8.0-windows\weather .170EFF11.Up2Date
+C:\Users\Shivam Sood\source\repos\weather application\weather application\obj\Debug\net8.0-windows\weather_application.Properties.Resources.resources
